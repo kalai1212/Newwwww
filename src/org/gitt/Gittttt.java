@@ -11,12 +11,13 @@ public class Gittttt {
 		System.out.println("Employee name is:");
 	}
 
-	private void empId() {
-		System.out.println("Employee Id is");
+	private void empPh() {
+		System.out.println("Employee Ph no is");
 
 	}
-	private void empPh() {
-		System.out.println("Employee ph no is");
+	
+	private void empId() {
+		System.out.println("Employee Id is");
 
 	}
 	
