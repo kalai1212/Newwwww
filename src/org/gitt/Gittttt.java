@@ -19,5 +19,9 @@ public class Gittttt {
 		System.out.println("Employee ph no is");
 
 	}
+	private void empAdd() {
+		System.out.println("Employee address is");
+
+	}
 	
 }
